@@ -1,8 +1,8 @@
 ---
-layout: article
+layout: home
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       About us
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -26,49 +26,91 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+<div class="hero hero--light">
+  <div class="hero__content" style="padding-top: 0.5rem;">
+    <h3>About us</h3>
+    Zeus AI provides cutting-edge data products for weather monitoring and forecasting using AI and near real-time satellite observations.  Our technology, developed at NASA Ames Research Center in Silicon Valley, uses state of the art computer vision to produce accurate, real-time and high-resolution weather variables. Our team has numerous publications and awards at the intersection of machine learning and Earth sciences with experience working in government agencies, academia, and private industry.
+  </div>
+</div>
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+<div class="hero hero--light">
+  <div class="hero__content" style="padding-top: 0.2rem;">
+    <h3>Team</h3>
+    <div class='grid'>
+        <div class="cell cell--4">
+          <div class="card__content">
+              <div class="card__image">
+                <img class="image" src="assets/images/Vandal_Photo.jpeg"/>
+              </div>
+            <h5>TJ Vandal, Ph.D.</h5>
+            Co-Founder and Chief Executive Officer
+          </div>
+        </div>
+      <div class="cell cell--4">
+        <div class="card__content">
+              <div class="card__image">
+                <img class="image" src="assets/images/Kate_Photo.jpeg"/>
+              </div>
+          <h5>Kate Duffy, Ph.D.</h5>
+          Co-Founder and Chief Product Officer
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-## Features
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+<div class="hero hero--light">
+  <div class="hero__content" style="padding-top: 0.2rem;">
+    <h3>Advisors</h3>
+    <div class='grid'>
+        <div class="cell cell--4">
+          <div class="card__content">
+              <div class="card__image">
+                <img class="image" src="assets/images/rama_nemani.jpeg"/>
+              </div>
+            <h5>Rama Nemani, Ph.D.</h5>
+            Advisor, Remote sensing
+          </div>
+        </div>
+      <div class="cell cell--4">
+        <div class="card__content">
+              <div class="card__image">
+                <img class="image" src="assets/images/auroop_ganguly.jpeg"/>
+              </div>
+          <h5>Auroop R. Ganguly, Ph.D.</h5>
+          Professor, Northeastern University
+        </div>
+      </div>
+      <div class="cell cell--4">
+        <div class="card__content">
+              <div class="card__image">
+                <img class="image" src="assets/images/evan_kodra.jpeg"/>
+              </div>
+          <h5>Evan Kodra, Ph.D.</h5>
+          Senior Director of ESG, ICE
+        </div>
+      </div>
+      <div class="cell cell--4">
+        <div class="card__content">
+              <div class="card__image">
+                <img class="image" src="assets/images/dan_mcduff.png"/>
+              </div>
+          <h5>Daniel McDuff, Ph.D.</h5>
+          Principal Scientist, Microsoft Research
+        </div>
+      </div>
+      <div class="cell cell--4">
+        <div class="card__content">
+              <div class="card__image">
+                <img class="image" src="assets/images/shyam_boriah.jpeg"/>
+              </div>
+          <h5>Shyam Boriah, Ph.D.</h5>
+          VP of Digitial Transformation, Xylem
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-## Skins
-
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |

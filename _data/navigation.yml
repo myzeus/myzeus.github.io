@@ -1,7 +1,9 @@
 header:
   - title: Home
     url: /index.html
-  - title: Winds
+  - title: Winds 
     url: /winds.html
+  - title: About us
+    url: /about.html
   - title: Contact us
     url: /contact-us.html

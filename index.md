@@ -67,36 +67,3 @@ article_header:
   </div>
 </div>
 
-<div class="hero hero--dark" style="background-color: #0a393b;">
-  <div class="hero__content" style="padding-top: 1rem;">
-    <h3>About us</h3>
-    Zeus AI provides cutting-edge data products for weather monitoring and forecasting using AI and near real-time satellite observations.  Our technology, developed at NASA Ames Research Center in Silicon Valley, uses state of the art computer vision to produce accurate, real-time and high-resolution weather variables. Our team has numerous publications and awards at the intersection of machine learning and Earth sciences with experience working in government agencies, academia, and private industry.
-
-  </div>
-</div>
-
-<div class="hero" style="background-color: #FFFFFF;">
-  <div class="hero__content" style="padding-top: 0.2rem;">
-    <h3>Team</h3>
-    <div class='grid'>
-        <div class="cell cell--4">
-          <div class="card__content">
-              <div class="card__image">
-                <img class="image" src="assets/images/Vandal_Photo.jpeg"/>
-              </div>
-            <h5>TJ Vandal, Ph.D.</h5>
-            Co-Founder and Chief Executive Officer
-          </div>
-        </div>
-      <div class="cell cell--4">
-        <div class="card__content">
-              <div class="card__image">
-                <img class="image" src="assets/images/Kate_Photo.jpeg"/>
-              </div>
-          <h5>Kate Duffy, Ph.D.</h5>
-          Co-Founder and Chief Executive Officer
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
