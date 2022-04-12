@@ -64,8 +64,8 @@ full_width: true
       canvasSupport = supports_canvas();
 
       map = new Map("mapCanvas", {
-        center: [-99.076, 39.132],
-        zoom: 3,
+        center: [-75.076, 39.132],
+        zoom: 4,
         basemap: "dark-gray",
       });
 
@@ -86,7 +86,7 @@ full_width: true
           map.on("pan-start", redraw);
 
           var layersRequest = esriRequest({
-            url: './assets/wind-js/gfs.json',
+            url: './assets/wind-js/zeus.json',
             content: {},
             handleAs: "json"
           });
