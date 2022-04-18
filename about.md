@@ -118,7 +118,7 @@ key: page-about
       <div class="cell cell--4">
         <div class="card__content">
               <div class="card__image">
-                <img class="image" src="assets/images/dan_mcduff.png"/>
+                <img class="image" src="assets/images/Dan_McDuff.png"/>
               </div>
           <h5>Daniel McDuff, Ph.D.</h5>
 			<ul>
