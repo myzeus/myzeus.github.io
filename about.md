@@ -46,9 +46,9 @@ key: page-about
             <h5>TJ Vandal, Ph.D.</h5>
             Co-Founder and Chief Executive Officer
 			<ul>
-				<li>Research Scientist at BAER Institute, NASA Ames</li>
-				<li>Ph.D. in Interdisplinary Engineering from Northeastern University, Climate science and machine learning, CEE outstanding graduate researcher 2018</li>
-				<li>B.S. in Mathematics from University of Maryland</li>
+        <li>Ph.D. in machine learning + climate science, Northeastern University</li>
+				<li>Principal Investigator in NASA's operational geostationary satellite program</li>
+				<li>Award winning publications in top data and Earth science conferences and journals</li>
 			</ul>
           </div>
         </div>
@@ -60,8 +60,8 @@ key: page-about
           <h5>Kate Duffy, Ph.D.</h5>
           Co-Founder and Chief Product Officer
 			<ul>
-				<li>Research Scientist at BAER Institute, NASA Ames</li>
-				<li>Ph.D. in Interdisplinary Engineering from Northeastern University, Climate, ecology, and applied machine learning</li>
+        <li>Ph.D. in Climate, Ecology, + Applied Machine Learning, Northeastern University</li>
+        <li>Previously a NASA Pathways Intern, NASA Earth eXchange</li>
 				<li>B.S. in Environmental Engineering from Cornell</li>
 			</ul>
         </div>
@@ -82,9 +82,9 @@ key: page-about
               </div>
             <h5>Rama Nemani, Ph.D.</h5>
 			<ul>
+        <li>30+ years of experience and 49k+ citations in remote sensing</li>
 				<li>Founded the NASA Earth eXchange (NEX)</li>
-				<li>Senior Scientist, NASA Ames Research Center (retired)</li> 
-				<li>Expertise in Earth science, remote sensing, and high-performance computing</li>
+				<li>Recieved NASA's highest awared, Distinguished Service Medal</li> 
 			</ul>
           </div>
         </div>
