@@ -133,6 +133,5 @@ full_width: true
 <body class="">
    <div id="mapCanvas" style="height:600px;">
    </div>
-  <div id="credit">Zeus AI</div>
-
+   <div id="credit" style="bottom: 60px;"><img src="assets/favicon.ico" height="60px"></div>
 </body>
