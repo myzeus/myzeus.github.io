@@ -40,9 +40,11 @@ key: page-about
     <div class='grid'>
         <div class="cell cell--4">
           <div class="card__content">
-              <div class="card__image">
+              <a href="https://www.linkedin.com/in/tjvandal/">
+                <div class="card__image">
                 <img class="image" src="assets/images/Vandal_Photo.jpeg"/>
               </div>
+              </a>
             <h5>TJ Vandal, Ph.D.</h5>
             Co-Founder and Chief Executive Officer
 			<ul>
@@ -50,13 +52,15 @@ key: page-about
 				<li>Principal Investigator in NASA's operational geostationary satellite program</li>
 				<li>Award winning publications in top data and Earth science conferences and journals</li>
 			</ul>
-          </div>
+      </div>
         </div>
       <div class="cell cell--4">
         <div class="card__content">
+              <a href="https://www.linkedin.com/in/katemduffy">
               <div class="card__image">
                 <img class="image" src="assets/images/Kate_Photo.jpeg"/>
               </div>
+            </a>
           <h5>Kate Duffy, Ph.D.</h5>
           Co-Founder and Chief Product Officer
 			<ul>
@@ -77,10 +81,12 @@ key: page-about
     <div class='grid'>
         <div class="cell cell--4">
           <div class="card__content">
+              <a href="https://www.linkedin.com/in/ramakrishna-nemani-84983b13">
               <div class="card__image">
                 <img class="image" src="assets/images/rama_nemani.jpeg"/>
               </div>
-            <h5>Rama Nemani, Ph.D.</h5>
+            </a>
+            <h5>Ramakrishna Nemani, Ph.D.</h5>
 			<ul>
         <li>30+ years of experience and 49k+ citations in remote sensing</li>
 				<li>Founded the NASA Earth eXchange (NEX)</li>
@@ -90,9 +96,11 @@ key: page-about
         </div>
       <div class="cell cell--4">
         <div class="card__content">
+              <a href="https://coe.northeastern.edu/people/ganguly-auroop/">
               <div class="card__image">
                 <img class="image" src="assets/images/auroop_ganguly.jpeg"/>
               </div>
+            </a>
           <h5>Auroop R. Ganguly, Ph.D.</h5>
 			<ul>
 			  <li>Professor, Northeastern University</li>
@@ -104,9 +112,11 @@ key: page-about
       </div>
       <div class="cell cell--4">
         <div class="card__content">
+              <a href="https://www.linkedin.com/in/evan-kodra-43bb0023">
               <div class="card__image">
                 <img class="image" src="assets/images/evan_kodra.jpeg"/>
               </div>
+            </a>
           <h5>Evan Kodra, Ph.D.</h5>
 			<ul>
 				<li>Senior Director of ESG, ICE</li>
@@ -117,9 +127,11 @@ key: page-about
       </div>
       <div class="cell cell--4">
         <div class="card__content">
+              <a href="https://www.linkedin.com/in/daniel-mcduff-19968051">
               <div class="card__image">
                 <img class="image" src="assets/images/Dan_McDuff.png"/>
               </div>
+            </a>
           <h5>Daniel McDuff, Ph.D.</h5>
 			<ul>
 			   <li>Principal Scientist, Microsoft Research</li>
