@@ -88,9 +88,9 @@ key: page-about
             </a>
             <h5>Ramakrishna Nemani, Ph.D.</h5>
 			<ul>
-        <li>30+ years of experience and 49k+ citations in remote sensing</li>
+				<li>30+ years of experience and 49k+ citations in remote sensing</li>
 				<li>Founded the NASA Earth eXchange (NEX)</li>
-				<li>Recieved NASA's highest awared, Distinguished Service Medal</li> 
+				<li>Recieved NASA's highest award, Distinguished Service Medal</li> 
 			</ul>
           </div>
         </div>
