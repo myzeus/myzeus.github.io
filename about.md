@@ -133,13 +133,29 @@ key: page-about
               </div>
             </a>
           <h5>Daniel McDuff, Ph.D.</h5>
-			<ul>
-			   <li>Principal Scientist, Microsoft Research</li>
-			   <li>Previously Director of Research at Affectiva</li>
-				<li>Expertise in computer vision, video processing, and computing</li>
-			</ul>
+  			<ul>
+  			   <li>Principal Scientist, Microsoft Research</li>
+  			   <li>Previously Director of Research at Affectiva</li>
+  				<li>Expertise in computer vision, video processing, and computing</li>
+  			</ul>
         </div>
       </div>
+      <div class="cell cell--4">
+        <div class="card__content">
+              <a href="https://www.linkedin.com/in/chris-hartshorn-2198523">
+              <div class="card__image">
+                <img class="image" src="assets/images/chris_hartshorn.jpg"/>
+              </div>
+            </a>
+          <h5>Chris Hartshorn, Ph.D.</h5>
+        <ul>
+           <li>Serial information/subscription services start-up executive</li>
+           <li>Previously C-level roles at Level 11 Analytics, risQ, Xibus Systems, Lux Research and the New Zealand government’s innovation agency</li>
+          <li>Expertise in nothing in particular, minimum viable awareness of a lot</li>
+        </ul>
+        </div>
+      </div>
+
      <!--  <div class="cell cell--4">
         <div class="card__content">
               <div class="card__image">
