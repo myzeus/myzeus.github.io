@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Zeus AI
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Real-time weather information using AI and satellite imagery
 
 
 ## => Language and Timezone
@@ -169,11 +169,11 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
+  provider: google # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : # Google Analytics id for the site
+    tracking_id: G-076SGVNZBK # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
