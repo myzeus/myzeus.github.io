@@ -94,7 +94,7 @@
 
     {%- if _author.linkedin -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Linkedin' }}">
-        <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank">
+        <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/company/{{ _author.linkedin }}" target="_blank">
           <div class="icon">{%- include svg/icon/social/linkedin.svg -%}</div>
         </a>
       </li>
