@@ -30,7 +30,7 @@ key: page-about
 <div class="hero hero--light">
   <div class="hero__content" style="padding-top: 0.5rem;">
     <h3>About us</h3>
-    Zeus AI provides cutting-edge data products for weather monitoring and forecasting using AI and near real-time satellite observations.  Our technology, developed at NASA Ames Research Center in Silicon Valley, uses state of the art computer vision to produce accurate, real-time and high-resolution weather variables. Our team has numerous publications and awards at the intersection of machine learning and Earth sciences with experience working in government agencies, academia, and private industry.
+    Zeus AI is a NASA Ames Research Center spinout developing cutting-edge data products for weather monitoring and forecasting using AI and near real-time satellite observations. Our technology uses state of the art computer vision to produce accurate, real-time and high-resolution weather variables from a suite of global satellites. Our team has numerous publications and awards at the intersection of machine learning and Earth sciences with experience working in government agencies, academia, and private industry. In 2022, Zeus AI was awarded a NASA Small Business Innovation Research Phase I award for using machine learning to characterize atmopsheric vertical structure from geostationary satellites.
   </div>
 </div>
 
@@ -49,7 +49,7 @@ key: page-about
             Co-Founder and Chief Executive Officer
 			<ul>
         <li>Ph.D. in machine learning + climate science, Northeastern University</li>
-				<li>Principal Investigator in NASA's operational geostationary satellite program</li>
+				<li>Principal Investigator in NASA ROSES and SBIR programs</li>
 				<li>Award winning publications in top data and Earth science conferences and journals</li>
 			</ul>
       </div>
