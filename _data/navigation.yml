@@ -3,6 +3,8 @@ header:
     url: /index.html
   - title: Winds 
     url: /winds.html
+  - title: News
+    url: /news.html
   - title: About us
     url: /about.html
   - title: Contact us
